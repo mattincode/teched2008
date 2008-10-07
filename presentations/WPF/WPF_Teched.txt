@@ -1,0 +1,61 @@
+WIN301
+
+WPF : Vector based,scale between different monitors (same size indendent of resolution)
+Compare Flash and Silverlight
+Interop Mix Winforms and WPF.
+WPF in VS2008  1.0
+Show TechEd session under resources.
+WPF Browser like history (maintains state)
+
+WUX403 Silverlight pipline 42min demo xperf live
+
+- Cross plattform runtime, sse2, sse assembler 
+- UI Thread / Non-UI thread (media decoding, frame raster)
+- Real-time animation (not framebased) same experiance independant from HW
+- Debug->EnableRedrawRegion, Enable frameratecounter, maxframerate =10000
+- Brushes integrates all stacks
+- Video brush
+-Subpixel postition 10.5
+- Blurred images -> interpolation ->  Snapper panel
+- Seaming -> non-integer position -> Overlap edges, change background color
+- Most expensive, native size vs stretch...
+- Blending (done per pixel) is expensive
+- Adaptive sampling (point+billeanaer)
+- Debug; turn of alpha blending, windowless, turn on redraw region, use XPerf(ETW event tracing for windows)
+- show xperf live
+- book: essential silverlight 2
+
+wux309
+
+WUX304
+- use demo... nice search and control
+- Deep Zoom
+- Customcontrol vs usercontrol
+- UI cUSTOMIZATION 28MIN
+
+WIN313
+- Amazing molecule UI in 2week
+- XPack
+- SoftwareFX - Themes example
+- WPF built on top of Direct3D, software pipeline as fallback
+- Stock information BOID 
+- Why WPF... GDI...OpenGL, DirectX
+- Zoom listbox etc...
+- WPF vs Silverlight : no 3D, 25% of total WPF api
+- Show Silverlight app -  San Diego Zoo 
+- Flickr demo
+- 43hings.com
+- Colorpicker dupont
+Demo WPF3D 27min
+
+WIN315 Databinding WPF
+- WPFMusicDataDemo, use as starting point for PDF-app store.
+- Converters...
+- Test Coderush
+- Source = SetBinding
+- IsAsync
+- ICollectionView (Navigate...)
+- CollectionView demo = filter
+- anonymous methods
+
+DEmo collection and views 42min

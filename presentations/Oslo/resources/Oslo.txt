@@ -1,0 +1,27 @@
+Oslo
+
+Keynote ... 
+Architecture Viewer
+00:34
+
+
+SLA - Service Level Agreement (Contract)
+How to find the references between Application and SLA
+Workflow (business analyst) ... Visio... how to find
+Work togheter, how to find people?
+Enterprise Architect (Service...)
+People - different languages 
+
+Business Analyst 
+IT Pro (set up servers)
+Enterprise Architect
+Developer
+
+Parse all code and visualize (Architecture Viewer in Visual Studio)
+Architecture Layer Diagram
+Assosicate different parts of the code with layers in Arch Layer Diagram
+01: grey boxes 
+Validate code compared to Architecture
+-> Can create checkin validation rule to never get into architecture problem
+-> Check depencies (Validate 3)
+

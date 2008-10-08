@@ -1,0 +1,32 @@
+History
+-------
+
+.NET Framework 3.5
+- Asynchronous network I/O API
+- Lambda methods
+- Extension methods
+- Language Integrated Query (LINQ)
+- Peer-to-peer networking stack
+- Enhanced WCF and WF runtimes
+- ASP.NET AJAX support
+
+.NET Framework 3.5SP1
+- .NET Framework Client Profile
+
+.NET Framework 4.0
+- Support for parallel computing (PLINQ)
+- Task Parallel Library
+- Server Core (subset of .NET Framework and ASP.NET)
+
+Comparison
+----------
+.NET vs Java
+
+Interoperability - Alternative implementations
+----------------
+- Shared Source Common Language Infrastructure
+- Mono (Linux, Solaris,BSD, HP-UX  & Mac OS X)
+- DotGNU 
+- CrossNet (Generates pure C++)
+- .NET for Symbian (S60)
+
